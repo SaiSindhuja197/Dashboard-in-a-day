@@ -4,11 +4,11 @@
     "Language": "English",
     "Files": [
       {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Dashboard-in-a-day/blob/prod/MSSPL/Challenge_overview.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Dashboard-in-a-day/refs/heads/prod/MSSPL/Challenge_overview.md",
         "Order": 1
       },
       {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Dashboard-in-a-day/blob/prod/MSSPL/challenge-getting-started.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Dashboard-in-a-day/refs/heads/prod/MSSPL/challenge-getting-started.md",
         "Order": 2
       },
       {
