@@ -136,7 +136,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. For the pop-up **Automatically sign in to all desktop apps and websites on this device?** window, select **No,this app only**
 
-   ![02](../Images/image107.png)
+   ![02](../Images/image1079.png)
 
 ## Support Contact
 

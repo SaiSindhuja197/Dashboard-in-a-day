@@ -28,6 +28,8 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    ![02](../Images/12062025(8).png)
 
+   ![02](../Images/12062025(89).png)
+
 1. On the **DIAD Final Report**, to enable the **Map and filled map visuals** like Power BI follow the below steps.
 
     - Click on **File** from the top left menu.
@@ -48,7 +50,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. From the top menu, click the **View (1)** tab, then click **Mobile layout (2)**.
 
-   ![](../Images/pb10.png) 
+   ![](../Images/pb10upd.png) 
 
    > **Note:** If **The mobile layout canvas is now interactive** pop-up comes up, click on **Close**.
 
@@ -76,7 +78,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. Drag the **Revenue by Country** below the line chart on the phone layout, resize the map.
 
-   ![](../Images/image203.png)
+   ![](../Images/image203upd.png)
 
 1. Click the **Save** icon from the top-left corner to save your workbook.
 
@@ -120,7 +122,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. From the **Home (1)** tab, click on **Publish (2)**.
 
-    ![](../Images/image205.png)
+    ![](../Images/image205upd.png)
 
 1. If you're prompted to save the changes, click on **Save** to proceed.
 
