@@ -104,7 +104,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
     ![02](../Images/15.png) 
 
-1. In the **Tenant settings** (**(1)**), search for **map** **(2)**, then expand the **Map and filled map visuals** **(3)**. If the toggle is not already enabled, switch it to **Enabled** **(4)**, and click **Apply** **(5)** to save the changes.
+1. In the **Tenant settings** (**(1)**), search for **map** **(2)**, then expand the **Map and filled map visuals** **(3)**. If the toggle is not already enabled, switch it to **Enabled** **(4)**, and click **Apply** **(5)** to save the changes. If it is already enabled, the Apply button will be disabled and you will not be able to click it.
 
     ![](../Images/image103.png) 
 
