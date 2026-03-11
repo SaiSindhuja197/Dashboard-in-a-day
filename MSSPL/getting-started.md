@@ -98,7 +98,7 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. You should be able to view the Power BI Portal.
 
-   ![image](../Images/powerbi_newportal.png)
+   ![image](../Images/powerbinewpage.png)
 
 1. Once logged in, navigate to **Settings (1)** icon and select **Admin portal (2)** under **Governance and insights** section.
 
