@@ -50,7 +50,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. From the top menu, click the **View (1)** tab, then click **Mobile layout (2)**.
 
-   ![](../Images/pb10upd.png) 
+   ![](../Images/powerbinew_task1_step5.png) 
 
    > **Note:** If **The mobile layout canvas is now interactive** pop-up comes up, click on **Close**.
 
@@ -68,9 +68,9 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    ![](../Images/pr6.png)
 
-2. While still in the **View** **(1)** tab, turn off **Visual_Gridline_Show** and **Snap to Grid** **(2)**, and also turn off the **Selection pane** **(3)**.
+2. While still in the **View** **(1)** tab, turn off **Gridlines** and **Snap to Grid** **(2)**, and also turn off the **Selection pane** **(3)**.
 
-   ![](../Images/E1T1S8.png)
+   ![](../Images/powerbinew_task1_step8.png)
 
 1. Drag the **Revenue by Year and Manufacturer** line chart below the card on the phone layout. Resize the line chart to stretch across the phone layout.
 
@@ -86,7 +86,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. Navigate to the browser where Power BI is open. In the left-hand panel of the Power BI interface, click on **Workspaces** **(1)** to view and manage your available workspaces.
    
-    ![](../Images/new-create-publish-powerbi-march-6.png)
+    ![](../Images/powerbinew_task1_step12.png)
 
 1. Click on **+ New workspace** at the bottom of the Workspaces pane. This will open the **Create a workspace** dialog box.
 
@@ -114,7 +114,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
    > **Note** If it asks about licence select **Try Free**.
 
-1. Let’s publish the report to the Power BI Service, then return to the browser. First, open the **DIAD Final Report** in Power BI Desktop.
+1. Let’s publish the report to the Power BI Service, then return to the browser . First, open the **DIAD Final Report** in Power BI Desktop.
 
 1. Ensure **Mobile layout** is **turned off** by deselecting the **Mobile layout** option in the View tab.
 
@@ -216,7 +216,7 @@ By the end of this section, you will have created a dashboard that looks like th
 
 1. Click on **By Manufacturer** **(1)** under the **Pages** pane to navigate to that specific report page.
 
-    ![](../Images/image214.png)
+    ![](../Images/powerbinew_task2_step14.png)
 
 1. From the top right corner, click the **down arrow**. Notice that the **manufacturer** slicer displays.
 
@@ -256,9 +256,9 @@ By the end of this section, you will have created a dashboard that looks like th
 
 1. From the left panel, select the **DIAD_<inject key="DeploymentID" enableCopy="false"/> (1)**, click **VanArsdel (2)** Dashboard. Notice that all the visuals are pinned as tiles to the dashboard.
 
-   ![](../Images/pr23.png)
+   ![](../Images/powerbinew_task2_step23(1).png)
 
-   ![](../Images/new-create-publish-powerbi-march-11.png)    
+   ![](../Images/powerbinew_task2_step23(2).png)    
 
     >**Note:** You will see the visuals on the dashboard like in the screenshot. Each visual on the dashboard is called a tile. The tiles represent the data chosen and are kept up to date as the data in the data model updates. Tiles are not interactive.
 
@@ -428,11 +428,11 @@ In this task, you will organize the Power BI dashboard by resizing tiles, adding
 
 1. In the left panel, click on **DIAD_<inject key="DeploymentID" enableCopy="false"/> (1)** and then select the checkbox for **DIAD Final Report (2)** under **Report** type.
 
-    ![](../Images/image313.png) 
+    ![](../Images/powerbinew_task3_step41.png) 
 
 1. Click the **ellipsis (...) (1)** then click on **Quick insights (2)**. 
 
-   ![](../Images/new-create-publish-powerbi-march-29.png)
+   ![](../Images/powerbinew_task3_step42.png)
   
     > **Note:** It might take a few minutes for the insights to be created. Once insights are ready, a message appears in the top right corner.
 
@@ -442,7 +442,7 @@ In this task, you will organize the Power BI dashboard by resizing tiles, adding
   
     > **Note:** A quick insights report is displayed based on the dataset. This provides insights into data you may have missed and helps to get a quick start on creating dashboards. Hovering over each report provides an option to **Pin it** to a dashboard.
 
-    ![](../Images/new-create-publish-powerbi-march-30.png)  
+    ![](../Images/powerbinew_task3_step43.png)  
 
 Throughout this lab, you have learned how to apply conditional formatting, add a logo to the manufacturer filter, import a custom visual, and apply a custom theme to the report. You also learned how to add bookmarks to tell a story about the report.
 

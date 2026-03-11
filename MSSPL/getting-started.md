@@ -10,7 +10,7 @@ In this lab, you will learn how to create and publish Power BI dashboards and re
 
 Understand report creation and dashboard management in Power BI. By the end of this lab, you will gain insights on:
 
-- **Create and Publish a Report:** Develop a comprehensive Power BI report, incorporating conditional formatting, custom visuals, and themes, and publish it to the Power BI Service.
+- **Create and Publish a Report:** Develop a comprehensive Power BI report, incorporating conditional formatting, custom visuals, themes and publish it to the Power BI Service.
 - **Build and Organize a Dashboard:** Construct and organize a Power BI dashboard to effectively visualize and present data from the report.
 - **Enhance Report Presentation:** Utilize features such as custom logos, conditional formatting, and bookmarks to create an engaging and informative report narrative.
 
@@ -98,13 +98,13 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
 
 1. You should be able to view the Power BI Portal.
 
-   ![image](https://github.com/user-attachments/assets/c70e25c2-4172-4818-b393-c479bf24595a)
+   ![image](../Images/powerbinewpage.png)
 
 1. Once logged in, navigate to **Settings (1)** icon and select **Admin portal (2)** under **Governance and insights** section.
 
     ![02](../Images/15.png) 
 
-1. In the **Tenant settings** (**(1)**), search for **map** **(2)**, then expand the **Map and filled map visuals** **(3)**. If the toggle is not already enabled, switch it to **Enabled** **(4)**, and click **Apply** **(5)** to save the changes.
+1. In the **Tenant settings** (**(1)**), search for **map** **(2)**, then expand the **Map and filled map visuals** **(3)**. If the toggle is not already enabled, switch it to **Enabled** **(4)**, and click **Apply** **(5)** to save the changes. If it is already enabled, the Apply button will be disabled and you will not be able to click it.
 
     ![](../Images/image103.png) 
 
