@@ -130,7 +130,7 @@ In this task, you will open a Power BI report, enable map visuals, adjust the mo
 
 1. In the **Publish to Power BI** dialog box, select **DIAD_<inject key="DeploymentID" enableCopy="false"/> (1)** and then click **Select (2)**.
 
-    ![](../Images/powerbi_task1_step21.png)
+    ![](../Images/image207a.png)
 
 1. The **Publishing to Power BI** dialog box opens. Once the process is complete, a success message displays.
   
