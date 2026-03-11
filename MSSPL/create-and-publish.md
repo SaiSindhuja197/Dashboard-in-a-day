@@ -432,7 +432,7 @@ In this task, you will organize the Power BI dashboard by resizing tiles, adding
 
 1. Click the **ellipsis (...) (1)** then click on **Quick insights (2)**. 
 
-   ![](../Images/powerbi_new_task3_step42.png)
+   ![](../Images/powerbinew_task3_step42.png)
   
     > **Note:** It might take a few minutes for the insights to be created. Once insights are ready, a message appears in the top right corner.
 
